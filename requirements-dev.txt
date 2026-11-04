@@ -1,0 +1,4 @@
+# summarize.py needs only the Python 3 standard library.
+# These pins are for the tests (pytest) and the chart script (matplotlib).
+pytest==8.3.3
+matplotlib==3.9.2
