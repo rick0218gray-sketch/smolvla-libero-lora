@@ -1,0 +1,6 @@
+evaluation,suite,task_count,episodes_per_task,base_successes,lora_successes
+spatial_main,libero_spatial,10,3,30,30
+cross_suite,libero_spatial,3,1,3,3
+cross_suite,libero_object,10,1,7,7
+cross_suite,libero_goal,10,1,8,0
+cross_suite,libero_10,10,1,10,4
